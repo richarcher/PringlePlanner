@@ -1,0 +1,24 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "The Master Bedroom",
+      "type" : "bedroom"
+    },
+    {
+      "id": 2,
+      "name": "The Shaw Suite",
+      "type" : "bedroom"
+    },
+    {
+      "id": 3,
+      "name": "Andrew's Room",
+      "type" : "bedroom"
+    },
+    {
+      "id": 4,
+      "name": "The Archer Chambers",
+      "type" : "bedroom"
+    }
+  ]
+}
